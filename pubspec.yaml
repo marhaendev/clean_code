@@ -2,6 +2,7 @@ name: clean_code
 description: "save your time with clean code"
 version: 1.0.0+1
 homepage: marhaendev.com
+repository: https://github.com/marhaendev/clean_code
 
 
 environment:
